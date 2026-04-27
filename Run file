@@ -1,0 +1,6 @@
+uvicorn main:app --reload   ---------> Calls fast api to login
+http://127.0.0.1:8000/docs
+streamlit run frontend/dashboard.py   ------------> opens the dashboard interface
+
+
+Note: project might not run in your window for now as api url is not set for personal api security to avoid bills in aws
