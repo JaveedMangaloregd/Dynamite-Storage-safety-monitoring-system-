@@ -102,5 +102,3 @@ Through this project, the following concepts were implemented:
 ## Summary
 This project showcases a **complete intelligent system** that combines **machine learning, backend APIs, frontend visualization, and AWS cloud services** to deliver a real-time fire prediction solution. It highlights practical implementation of modern technologies in building scalable and efficient applications.
 
-👉 I can create **architecture diagram image (very important for GitHub)**
-👉 Or write **perfect resume description (short & powerful)** 🚀
